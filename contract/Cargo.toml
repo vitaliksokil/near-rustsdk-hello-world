@@ -1,7 +1,7 @@
 [package]
-name = "crossword-tutorial-chapter-1"
+name = "hello-world"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>", "Mike Purvis <mike@near.org>"]
+authors = ["Hello world by <vitalii.sokil@oneplusone.solutions>"]
 edition = "2018"
 
 [lib]
@@ -9,7 +9,6 @@ crate-type = ["cdylib"]
 
 [dependencies]
 near-sdk = "4.0.0-pre.4"
-hex = "0.4.3"
 
 [profile.release]
 codegen-units = 1

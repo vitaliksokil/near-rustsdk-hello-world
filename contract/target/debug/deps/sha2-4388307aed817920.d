@@ -1,0 +1,13 @@
+/var/www/rust-template/target/debug/deps/sha2-4388307aed817920.rmeta: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/consts.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/soft.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/x86.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512/soft.rs
+
+/var/www/rust-template/target/debug/deps/libsha2-4388307aed817920.rlib: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/consts.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/soft.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/x86.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512/soft.rs
+
+/var/www/rust-template/target/debug/deps/sha2-4388307aed817920.d: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/consts.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/soft.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/x86.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512/soft.rs
+
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/lib.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/consts.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/soft.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha256/x86.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.5/src/sha512/soft.rs:

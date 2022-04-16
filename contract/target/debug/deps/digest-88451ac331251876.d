@@ -1,0 +1,13 @@
+/var/www/rust-template/target/debug/deps/digest-88451ac331251876.rmeta: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/var/www/rust-template/target/debug/deps/libdigest-88451ac331251876.rlib: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/var/www/rust-template/target/debug/deps/digest-88451ac331251876.d: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs:

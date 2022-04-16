@@ -1,0 +1,13 @@
+/var/www/rust-template/target/debug/deps/quote-8272c5f1de751f47.rmeta: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/var/www/rust-template/target/debug/deps/libquote-8272c5f1de751f47.rlib: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/var/www/rust-template/target/debug/deps/quote-8272c5f1de751f47.d: /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/home/vitalii/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:

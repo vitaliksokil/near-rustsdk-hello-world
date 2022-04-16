@@ -2,4 +2,3 @@
 set -e
 
 cargo test -- --nocapture
-
